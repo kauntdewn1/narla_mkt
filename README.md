@@ -90,4 +90,8 @@ npm run dev
 npm run build
 ```
 
-O build será gerado na pasta `dist/`. 
+O build será gerado na pasta `dist/`.
+
+## 📄 Licença
+
+Uso interno e autorizado pela equipe Narla Lopes + FlowOFF. 
